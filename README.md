@@ -22,7 +22,7 @@ Questo progetto è stato realizzato per esercitarsi con i concetti fondamentali 
 
 # 📷 Screenshot
 
-![Task Manager Screenshot](assets/screenshot.png)
+![Task Manager Screenshot](assets/screen.png)
 
 ---
 
